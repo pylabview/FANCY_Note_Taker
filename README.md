@@ -3,11 +3,11 @@
 
 ## Description
 _______________________________________
-This is a simple [SVG](http://www.w3.org/2000/svg) logo maker. The logo can have three characters.  You can select between three different shapes: triangle, square, and circle.
+This is a simple note taker app that can be use to track topics like projects, ToDo lists, lectures, etc. The application will allow you add and delete notes with just a click!
 
 This application uses node.js, the [inquirer](https://www.npmjs.com/package/inquirer) package (CLI tool), and the [jest](https://jestjs.io/) testing framework for integration and developing.
 
-Cheers!
+I hope you enjoy!
 
 
 ## Table of Contents
